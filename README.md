@@ -11,8 +11,10 @@
 🎓 Telecommunications Engineering Student – Graduation Year Project in progress  
 💻 Beginner Programmer, learning step by step  
 📱 Working in Mobile field (Hardware & Software maintenance)  
-🚀 Interested in Mobile Development (Flutter, Java, C++ problem solving)  
-
+🚀 Interested in Mobile Development (Flutter/Dart)
+🧩 Problem Solving with C++
+☕ Learned *Java* as my first programming language  
+🌐 Gained basics of *HTML* and *CSS* for web pages
 <hr>
 
 ### 🛠 Tech Stack & Tools  
